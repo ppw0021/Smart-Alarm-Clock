@@ -21,6 +21,11 @@ The Smart Alarm Clock is a Raspberry Pi-based alarm system designed to help user
 - Sound Module (such as a buzzer or speaker)
 - Obstacle Sensor (for phone presence detection)
 
+## Chassis
+The chassis is 3d printed from PLA plastic. It was designed in shapr3d.
+![render](https://github.com/user-attachments/assets/00db2917-d7e3-4f7e-ad39-72b9e9242046)
+
+
 ## Software Requirements
 - Python 3.x
 - Required Python libraries:
