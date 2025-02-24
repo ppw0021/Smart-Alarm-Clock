@@ -57,5 +57,5 @@ The chassis is 3d printed from PLA plastic. It was designed in shapr3d.
 
 ## API Endpoints
 - `/setalarm` (Set the alarm)
-- `stopalarm` (Snooze the alarm)
+- `/stopalarm` (Snooze the alarm)
 - `/cancelalarm` (Cancel the alarm)
